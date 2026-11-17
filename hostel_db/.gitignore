@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+bin/
+
+# Eclipse temporary workspace files
+.metadata/
+
+# Log files
+*.log
+
+# Environment and secret files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
